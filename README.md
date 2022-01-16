@@ -12,4 +12,4 @@
 
 ![Описание картинки с котиком](console.png)
 
-Created with CodeSandbox
+Created with CodeSandbox https://codesandbox.io/s/less1-oop-t9c29?file=/src/hello.ts
